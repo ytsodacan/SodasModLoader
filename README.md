@@ -3,11 +3,11 @@ A custom texture pack and Mod Loader for the Google Popcorn Doodle!
 
 
 # Upcoming Features
-- Subway Surfers And Minecraft Parkour Gameplay
-- GUI for settings
+- Subway Surfers And Minecraft Parkour Gameplay (Done Subway Surfers!)
+- GUI for settings (Done!)
 - Custom Texture Packs (Done!)
-- Custom Music
-- Clock Widget
+- Custom Music (Spotify ig)
+- Clock Widget (Done!)
 
 # How To Install
 - Download Latest Release
